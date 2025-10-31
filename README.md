@@ -1,22 +1,3 @@
-<div align="center">
-<h2>👋 Hello there, fellow &lt;developers/&gt;!</h2>
-</div>
-
-<div align="center" width="50">
-<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300">
-</div>
-
-<div align="center">
-<p>Welcome to my GitHub profile! <br>
-I'm <b>Ngo Gia Huan</b>, a passionate <b>Front-end Developer</b> with hands-on experience in <b>ReactJS, NextJS, NestJS</b> and modern web technologies. <br>
-I love building responsive, scalable, and user-friendly applications — from design to deployment.</p>
-
-<p>Feel free to check out my repositories, fork projects, open issues, or suggest improvements.<br>
-You can also reach me via <a href="mailto:ngogiahuan23122003@gmail.com"><b>email</b></a>.</p>
-
-<p><i>Happy coding!</i> 😊</p>
-</div>
-
 ---
 
 ### 🛠 Tech Stack
@@ -25,13 +6,6 @@ You can also reach me via <a href="mailto:ngogiahuan23122003@gmail.com"><b>email
 - **Database:** PostgreSQL, MySQL, MongoDB, SQL Server  
 - **Tools & DevOps:** Git, Docker, Ubuntu, CI/CD  
 - **Languages:** Vietnamese (Native), English (Fluent)  
-
----
-
-### 🚀 Featured Projects
-- **FAMS – Fresher Academy Management System** – Led a 5-member team to build a trainee management web app using ReactJS, NestJS, and PostgreSQL. Learned leadership, task coordination, and backend optimization.
-- **EventZone** – Event management platform with real-time updates via WebSocket. First time deploying a production app on Vercel.
-- **GoodsDesign** – E-commerce site for 3D design products using ThreeJS and GraphQL. First experience rendering interactive 3D models in the browser.
 
 ---
 
